@@ -5,6 +5,12 @@ body {
     text-align: center;
 }
 
+#donatebtn {
+    background-color: #f5bd1f;
+    border-radius: 20px;
+    padding: 5px 10px;
+}
+
 /* Dropdown Button */
 .dropbtn {
     background-color: #04AA6D;
